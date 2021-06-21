@@ -2,6 +2,11 @@
 
 ### related to taffic signs
 
+kaggle
+
+https://www.kaggle.com/loitranv/zalo-traffic-sign
+
+
 
 germany 
 
@@ -22,5 +27,18 @@ Europe
 https://gram.web.uah.es/research.html
 
 https://github.com/olivesgatech/CURE-TSR
+
+http://www.vicos.si/Downloads/DFGTSD
+
+https://www.cvl.isy.liu.se/en/research/datasets/traffic-signs-dataset/
+
+
+Asia
+
+China
+
+http://www.nlpr.ia.ac.cn/pal/trafficdata/recognition.html
+
+
 
 
