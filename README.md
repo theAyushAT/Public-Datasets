@@ -1,5 +1,10 @@
 # Public-Datasets
 
+### LPR
+
+https://www.kaggle.com/xairete/car-plates-ocr
+
+
 ### related to taffic signs
 
 kaggle
