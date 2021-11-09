@@ -53,3 +53,7 @@ https://www.airs-dataset.com/#:~:text=AIRS%20
 ## Datasets for Cyber Forensics
 
 https://datasets.fbreitinger.de/datasets/
+
+## Indian Sign Language Dataset for Continuous Sign Language Translation and Recognition
+
+https://data.mendeley.com/datasets/kcmpdxky7p/1
